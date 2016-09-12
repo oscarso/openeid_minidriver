@@ -1,0 +1,6 @@
+[submodule "googlemock"]
+	path = googlemock
+	url = ../googlemock
+[submodule "gtest"]
+	path = gtest
+	url = ../googletest
